@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Prime + Vue 3 + Vite 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+https://mysterious-brushlands-89861.herokuapp.com/
 
-## Recommended IDE Setup
+[![Next generation frontend tooling with ViteJS - Open Source Friday](https://img.youtube.com/vi/UJypSr8IhKY/0.jpg)](https://youtu.be/UJypSr8IhKY)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+# Prime Vue
+[![](https://img.youtube.com/vi/cGTXuyqIwMA/0.jpg)](https://youtu.be/cGTXuyqIwMA)
+
+- [DataTable Crud on PrimeVue](https://www.primefaces.org/primevue/datatable/crud/) 
+
+
+# Деплой NodeJS. Heroku (бесплатный хостинг)
+
+[![Деплой NodeJS. Heroku (бесплатный хостинг)](https://img.youtube.com/vi/wG7hX8Np1Pg/0.jpg)](https://youtu.be/wG7hX8Np1Pg)
